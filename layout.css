@@ -1,0 +1,27 @@
+body {
+    margin-top: 70px;
+    background: #333;
+    color: #fff;
+    align-content: center;
+}
+
+.card {
+    margin: 3px;
+    text-align: center;
+    width: 200px;
+}
+
+.card-block1 {
+    background-color: blue;
+    padding: 1px;
+}
+
+.card-block2 {
+    background-color: green;
+    padding: 1px;
+}
+
+.card-block3 {
+    background-color: red;
+    padding: 1px;
+}
